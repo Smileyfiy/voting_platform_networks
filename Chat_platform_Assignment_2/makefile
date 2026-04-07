@@ -17,7 +17,7 @@ CLIENT = client$(EXE)
 SERVER = server$(EXE)
 
 # Source files
-CLIENT_SRC = client.c
+CLIENT_SRC = client2.c
 SERVER_SRC = server2.c
 
 # Default target
